@@ -65,5 +65,9 @@ Average waiting time of an object in the conveyor : 0.09 secs
 Probability that the system is busy : 0.08 
 Probability that the system is empty : 0.92 
 ```
+
+## Github Link:
+https://github.com/Hussainmeera/Single-server-infinite-capacity---Markov-Model/edit/main/README.md
+
 ## Result :
 Thsu the python program is implemented and executed successfully
